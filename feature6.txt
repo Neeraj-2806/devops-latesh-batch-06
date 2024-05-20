@@ -1,3 +1,3 @@
 this is the latest feature added
 
-added new lines
+added new lines in the features
